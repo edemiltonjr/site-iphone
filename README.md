@@ -6,6 +6,8 @@ Período: 1º período
 
 Curso: Sistema de Informação
 
+Período: 2022.1
+
 Instituição: Centro Univeritário UniRios
 
 Site implementado com HTML e CSS, utilizando a biblioteca Jquery.
